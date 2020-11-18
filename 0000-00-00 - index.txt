@@ -1,0 +1,4 @@
+mm/dd/yyyy | hh:mm:ss | x → transcript | title
+
+10/31/2009 | 00:04:20 | bit.ly/38YDsuR | Ghosbusters Tour NYC
+12/08/2018 | 00:12:59 | bit.ly/32Ui2v3 | Mike and Jay Talk About The Clovehitch Killer
